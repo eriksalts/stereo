@@ -1,0 +1,27 @@
+
+input#user-lookup {
+  display: inline-block;
+  width: 50%;
+  margin: 20px auto;
+}
+
+a.user-lookup-submit {
+
+}
+
+.song-info-container {
+  display: none;
+}
+
+.user-info-wrapper {
+  position: absolute;
+  top: 10px;
+}
+
+.alert-paused {
+  display: none;
+}
+
+.alert-oops {
+  display: none;
+}
